@@ -40,5 +40,8 @@ Vào khoảng giữa năm 2020, khi Mai Lê Bảo Khang đang lướt mạng, an
 Bố cục bàn phím này sẽ không chỉ giúp các bạn nhớ lại những kỉ niệm về máy chữ hồi trước năm 1975, mà sẽ giúp người Việt Nam chúng ta tự tin đi ra biển lớn của công nghệ.
 
 ***
-The keyboard layout is written in open-source. / Bố cục bàn phím này viết theo mã nguồn mở.
+The keyboard layout is written in open-source. / Bố cục bàn phím này viết theo mã nguồn mở. <br>
 [DOWNLOAD HERE](https://github.com/tommai4881/vietnamese-aderty/releases/download/1.0/ADERTY.rar)
+
+***
+Contact me at [baokhang48812002@gmail.com](mailto:baokhang48812002@gmail.com) to suggest ideas
