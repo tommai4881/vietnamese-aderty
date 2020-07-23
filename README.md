@@ -38,3 +38,7 @@ Bố cục bàn phím này đã được thay thế phần lớn bởi bộ gõ 
 Trong thời gian vừa qua, có xu hướng số hoá bố cục bàn phím này thành một bàn phím. Ở đây, đã có một bố cục bàn phím ảo trên điện thoại di động như [trong link này](https://gitlab.freedesktop.org/BoFFire/xkeyboard-config/commit/99384cd33c4df77fe0880a688f335dcc98f31013). Nhưng tính đến nay, chúng ta vẫn chưa có dạng bố cục này dành cho máy tính.<br>
 Vào khoảng giữa năm 2020, khi Mai Lê Bảo Khang đang lướt mạng, anh ngẫu nhiên phát hiện ra bố cục bàn phím AĐERTY và anh trộn với AĐERTY truyền thống thấy trong máy chữ với các ký hiệu bổ sung trong bàn phím AZERTY của Pháp được sử dụng trong máy tính.<br>
 Bố cục bàn phím này sẽ không chỉ giúp các bạn nhớ lại những kỉ niệm về máy chữ hồi trước năm 1975, mà sẽ giúp người Việt Nam chúng ta tự tin đi ra biển lớn của công nghệ.
+
+***
+The keyboard layout is written in open-source. / Bố cục bàn phím này viết theo mã nguồn mở.
+[DOWNLOAD HERE](https://github.com/tommai4881/vietnamese-aderty/releases/download/1.0/ADERTY.rar)
