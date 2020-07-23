@@ -13,8 +13,8 @@ The keyboard layout was largely replaced by Telex and VNI IME and QWERTY-based T
 * Particularly for the letters Ậ, Ệ and Ộ, they must be pressed by the combination of AltGr and A, E and O
 
 ## The Revived Legendary Keyboard Layout in Fourth Industrial Era
-In recent times, there has been a trend of digitizing this keyboard layout into a keyboard. Here, there have been already a virtual keyboard layout on mobile phones as [in this link](https://gitlab.freedesktop.org/BoFFire/xkeyboard-config/commit/99384cd33c4df77fe0880a688f335dcc98f31013).<br>
-In circa middle 2020, while Tom Mai was surfing net, he randomly discovered the AĐERTY keyboard layout and he mixed with traditional AĐERTY seen in typewriters with additional symbols in French AZERTY keyboard used in computers. But as of now, we still don't have this kind of layout for computers.<br>
+In recent times, there has been a trend of digitizing this keyboard layout into a keyboard. Here, there have been already a virtual keyboard layout on mobile phones as [in this link](https://gitlab.freedesktop.org/BoFFire/xkeyboard-config/commit/99384cd33c4df77fe0880a688f335dcc98f31013). But as of now, we still don't have this kind of layout for computers.<br>
+In circa middle 2020, while Tom Mai was surfing net, he randomly discovered the AĐERTY keyboard layout and he mixed with traditional AĐERTY seen in typewriters with additional symbols in French AZERTY keyboard used in computers. <br>
 This keyboard layout will not only help you recall the memories of typewriters before 1975, but will also help us, Vietnamese people, confidently go to the sea of technology.
 
 ***
